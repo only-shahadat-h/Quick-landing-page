@@ -132,7 +132,7 @@ header{
 /*success end*/
 /*feature start*/
 .feature{
-
+	padding: 60px 0;
 }
 .f_content{
 	overflow: hidden;
